@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/escalus/src/escalus.erl" timestamp="1498738347882">
+        <mark key="'" line="94" column="20" />
+      </file>
       <file name="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" timestamp="1498737785811">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
         <mark key="^" line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/escalus/_build/default/rel/escalus/lib/escalus-3.0.1+build.811.refb4caa0e/src/escalus_users.erl" timestamp="1498738352102">
+        <mark key="'" line="118" column="7" />
       </file>
       <file name="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" timestamp="1498737791829">
         <mark key="'" line="13" column="28" />
@@ -74,6 +80,17 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
       <jump line="53" column="19" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
       <jump line="1" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
+      <jump line="22" column="28" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="44" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="47" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="49" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="56" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="63" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="38" column="9" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="92" column="6" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="94" column="20" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
+      <jump line="118" column="7" filename="$USER_HOME$/src/escalus/_build/default/rel/escalus/lib/escalus-3.0.1+build.811.refb4caa0e/src/escalus_users.erl" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -89,13 +106,13 @@
         <text>ite_prefix=amoc_1 node_name=&quot;amoc@192.168.0.2&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>create_users</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>create_users</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>create_users</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -108,6 +125,8 @@
         <entry>create_user</entry>
         <entry>create</entry>
         <entry>user</entry>
+        <entry>create_</entry>
+        <entry>create_users</entry>
       </history-search>
       <history-cmd>
         <entry>246</entry>
