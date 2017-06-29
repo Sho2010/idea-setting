@@ -3,13 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" timestamp="1498702500153">
-        <mark key="'" line="4" column="13" />
+      <file name="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" timestamp="1498737785811">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+        <mark key="^" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" timestamp="1498702464041">
+      <file name="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" timestamp="1498737791829">
         <mark key="'" line="13" column="28" />
-        <mark key="[" line="142" column="4" />
-        <mark key="]" line="142" column="18" />
+        <mark key="[" line="32" column="53" />
+        <mark key="]" line="143" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/amoc/src/amoc_user.erl" timestamp="1498737969806">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/amoc/hosts" timestamp="1498699815768">
         <mark key="'" line="50" column="0" />
@@ -59,22 +66,36 @@
       <jump line="13" column="28" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
       <jump line="2" column="13" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
       <jump line="4" column="13" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
+      <jump line="30" column="12" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
+      <jump line="65" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
+      <jump line="54" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
+      <jump line="44" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
+      <jump line="53" column="19" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>receive_forever</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">LWJlaGF2aW91cihzc2xfc2Vzc2lvbl9jYWNoZV9hcGkpLgoK</text>
+      </register>
+      <register name=":" type="4">
+        <text>246</text>
+      </register>
       <register name="-" type="4">
         <text>ite_prefix=amoc_1 node_name=&quot;amoc@192.168.0.2&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>receive_forever</text>
+        <text>user</text>
       </register>
     </registers>
     <search>
-      <last-search>receive_forever</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>receive_forever</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -83,8 +104,14 @@
         <entry>send_presence_available</entry>
         <entry>hoge</entry>
         <entry>receive_forever</entry>
+        <entry>cre</entry>
+        <entry>create_user</entry>
+        <entry>create</entry>
+        <entry>user</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>246</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
