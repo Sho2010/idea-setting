@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" timestamp="1498702500153">
+        <mark key="'" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" timestamp="1498702464041">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="142" column="18" />
+      </file>
       <file name="$USER_HOME$/src/amoc/hosts" timestamp="1498699815768">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="9" column="11" />
@@ -28,24 +36,60 @@
       <jump line="48" column="0" filename="$USER_HOME$/src/amoc/hosts" />
       <jump line="50" column="0" filename="$USER_HOME$/src/amoc/hosts" />
       <jump line="4" column="0" filename="$USER_HOME$/src/amoc/hosts" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="25" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="34" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="32" column="10" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="145" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="144" column="6" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="143" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="108" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="116" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="142" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="118" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="120" column="6" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="121" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="52" column="6" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="67" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="13" column="28" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
+      <jump line="2" column="13" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
+      <jump line="4" column="13" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>receive_forever</text>
+      </register>
       <register name="-" type="4">
         <text>ite_prefix=amoc_1 node_name=&quot;amoc@192.168.0.2&quot;</text>
       </register>
+      <register name="/" type="4">
+        <text>receive_forever</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>receive_forever</last-search>
+      <last-offset />
+      <last-pattern>receive_forever</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>send_presence_available</entry>
+        <entry>hoge</entry>
+        <entry>receive_forever</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
