@@ -13,8 +13,12 @@
         <mark key="." line="2" column="2" />
         <mark key="^" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/src/escalus/_build/default/rel/escalus/lib/escalus-3.0.1+build.811.refb4caa0e/src/escalus_users.erl" timestamp="1498738352102">
+      <file name="$USER_HOME$/src/escalus/_build/default/rel/escalus/lib/escalus-3.0.1+build.811.refb4caa0e/src/escalus_users.erl" timestamp="1499090270125">
         <mark key="'" line="118" column="7" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="118" column="4" />
       </file>
       <file name="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" timestamp="1498737791829">
         <mark key="'" line="13" column="28" />
@@ -97,13 +101,16 @@
         <text>receive_forever</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">JSUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">LWJlaGF2aW91cihzc2xfc2Vzc2lvbl9jYWNoZV9hcGkpLgoK</text>
       </register>
       <register name=":" type="4">
         <text>246</text>
       </register>
       <register name="-" type="4">
-        <text>ite_prefix=amoc_1 node_name=&quot;amoc@192.168.0.2&quot;</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>create_users</text>
@@ -114,7 +121,7 @@
       <last-offset />
       <last-pattern>create_users</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -140,6 +147,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
