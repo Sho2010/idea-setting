@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_payment_history.rb" timestamp="1467249677700">
         <mark key="'" line="30" column="40" />
       </file>
+      <file name="$USER_HOME$/src/caravan-pc/ar-test/Dockerfile" timestamp="1503986132508">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-rails-0.3.4/lib/pry-rails/commands/show_models.rb" timestamp="1487751917835">
         <mark key="j" line="14" column="4" />
         <mark key="m" line="14" column="4" />
@@ -190,31 +196,31 @@
         <text encoding="base64">JCBteXNxbCBtb25vbGl0aC14ZDFfZGV2ZWxvcG1lbnQgLXUgcm9vdCA8ICN7ZHVtcCBmaWxlIHBhdGh9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZQo=</text>
+        <text encoding="base64">CSYmIHdnZXQgLU8gL3Vzci9sb2NhbC9iaW4vZ29zdSAiaHR0cHM6Ly9naXRodWIuY29tL3RpYW5vbi9nb3N1L3JlbGVhc2VzL2Rvd25sb2FkLyRHT1NVX1ZFUlNJT04vZ29zdS0kKGRwa2cgLS1wcmludC1hcmNoaXRlY3R1cmUpIiBcCgkmJiB3Z2V0IC1PIC91c3IvbG9jYWwvYmluL2dvc3UuYXNjICJodHRwczovL2dpdGh1Yi5jb20vdGlhbm9uL2dvc3UvcmVsZWFzZXMvZG93bmxvYWQvJEdPU1VfVkVSU0lPTi9nb3N1LSQoZHBrZyAtLXByaW50LWFyY2hpdGVjdHVyZSkuYXNjIiBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XV1dCg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hbmFnZTo6UGF5bWVudEV2ZW50LnNhbXBsZS5jaGFubgo=</text>
+        <text encoding="base64">XV1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hbmFnZTo6UGF5bWVudEV2ZW50LnNhbXBsZS5jaGFubgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgY29udmVydF9hcHBsZV9wcmljZShyZWNvcmQpCiAgICAjIOWQjeWJjeOCr+OCvemBqeW9kwogICAgQ250OjpBcHBsZUF2Z1VuaXRQcmljZS50b19hdmcoKQoKICBlbmQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgY29udmVydF9hcHBsZV9wcmljZShyZWNvcmQpCiAgICAjIOWQjeWJjeOCr+OCvemBqeW9kwogICAgQ250OjpBcHBsZUF2Z1VuaXRQcmljZS50b19hdmcoKQoKICBlbmQK</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIENudDo6RGFpbHlDaGFyZ2luZ1R5cGVBbW91bnQK</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
-      </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
