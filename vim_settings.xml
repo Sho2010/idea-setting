@@ -36,7 +36,6 @@
       <file name="$USER_HOME$/src/lfs-backoffice/lib/analyzers/cnt_daily_purchase_amount/counter.rb" timestamp="1467286320703">
         <mark key="'" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/src/caravan-pc/app/models/application_record.rb" timestamp="1504145341872" />
       <file name="$USER_HOME$/src/caravan-pc/app/models/user.rb" timestamp="1504145290941">
         <mark key="'" line="1" column="30" />
       </file>
@@ -100,8 +99,8 @@
         <mark key="^" line="315" column="5" />
         <mark key="." line="315" column="5" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" timestamp="1504146286000">
-        <mark key="'" line="5" column="8" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" timestamp="1504146506187">
+        <mark key="'" line="2" column="7" />
       </file>
       <file name="/a.txt" timestamp="1467251592690">
         <mark key="[" line="0" column="0" />
@@ -119,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="8" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
       <jump line="52" column="2" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
       <jump line="84" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
       <jump line="22" column="1" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
@@ -219,6 +217,7 @@
       <jump line="7" column="7" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
       <jump line="5" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" />
+      <jump line="2" column="7" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -271,7 +270,7 @@
       <last-replace>hoge</last-replace>
       <last-substitute>Manage</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
