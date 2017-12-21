@@ -10,6 +10,8 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Web/WebAPISender.cs" timestamp="1513837463268" />
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/ServerBase.cs" timestamp="1513837480446" />
       <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/Program.cs" timestamp="1513761940992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
@@ -122,7 +124,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERpY3Rpb25hcnk8aW50LCBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9uPiBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9ucyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>66</text>
       </register>
     </registers>
     <search>
@@ -160,6 +162,8 @@
         <entry>145</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>114</entry>
+        <entry>66</entry>
       </history-cmd>
       <history-expr />
       <history-input />
