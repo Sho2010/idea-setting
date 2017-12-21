@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513752968029">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513835056286">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/Program.cs" timestamp="1513761940992">
         <mark key="[" line="0" column="0" />
@@ -44,7 +44,6 @@
       <jump line="35" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="38" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="43" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="52" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="59" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="88" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="74" column="33" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -66,7 +65,6 @@
       <jump line="63" column="69" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="66" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="62" column="12" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="7" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="18" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="23" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -83,61 +81,62 @@
       <jump line="32" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="25" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="9" column="0" filename="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/Network.csproj" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="52" column="8" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ID0+ICFJc0RldmVsb3BtZW50Ow==</text>
+        <text>FilePath</text>
       </register>
       <register name="/" type="4">
-        <text>SERVER_BASE_CONFIG_DIR</text>
+        <text>filepath</text>
       </register>
       <register name="0" type="4">
-        <text>DefaultConfigrationFilePath</text>
+        <text>DefaultConfigurationFilePath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsKCmNsYXNzIFByb2dyYW0KewogICAgc3RhdGljIHZvaWQgTWFpbihzdHJpbmdbXSBhcmdzKQogICAgewogICAgfQp9Cg==</text>
+        <text encoding="base64">dXNpbmcgTmV0d29yazsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg5Pjg6vjg4nmmYLjgavjgrPjg7Pjg5XjgqPjgrDjg5XjgqHjgqTjg6vjgpLjg5DjgqTjg4rjg6rjga7loLTmiYDjgavjgrPjg5Tjg7zjgZnjgovjgojjgYbjgavjgZfjgZ/jgYQK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dAogICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2VhcmNoQ29uZmlndXJhdGlvbkRpcmVjdG9yeSgpOwoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2VhcmNoQ29uZmlndXJhdGlvbkRpcmVjdG9yeSgpOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERpY3Rpb25hcnk8aW50LCBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9uPiBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9ucyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsKCmNsYXNzIFByb2dyYW0KewogICAgc3RhdGljIHZvaWQgTWFpbihzdHJpbmdbXSBhcmdzKQogICAgewogICAgfQp9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg5Pjg6vjg4nmmYLjgavjgrPjg7Pjg5XjgqPjgrDjg5XjgqHjgqTjg6vjgpLjg5DjgqTjg4rjg6rjga7loLTmiYDjgavjgrPjg5Tjg7zjgZnjgovjgojjgYbjgavjgZfjgZ/jgYQK</text>
+      <register name="7" type="4">
+        <text encoding="base64">dAogICAgICAgICAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">fQogICAgICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg5Pjg6vjg4nmmYLjgavjgrPjg7Pjg5XjgqPjgrDjg5XjgqHjgqTjg6vjgpLjg5DjgqTjg4rjg6rjga7loLTmiYDjgavjgrPjg5Tjg7zjgZnjgovjgojjgYbjgavjgZfjgZ/jgYQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERpY3Rpb25hcnk8aW50LCBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9uPiBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9ucyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SERVER_BASE_CONFIG_DIR</last-search>
+      <last-search>filepath</last-search>
       <last-offset />
-      <last-pattern>SERVER_BASE_CONFIG_DIR</last-pattern>
+      <last-pattern>filepath</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>ser</entry>
         <entry>serch</entry>
         <entry>serach</entry>
-        <entry>SearchConfigurationDirectory</entry>
         <entry>const</entry>
         <entry>serverconf</entry>
         <entry>GetEnvironmentVariable</entry>
@@ -152,9 +151,13 @@
         <entry>FilePath</entry>
         <entry>file</entry>
         <entry>SERVER_BASE_CONFIG_DIR</entry>
+        <entry>SearchConfigurationDirectory</entry>
+        <entry>filepath</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
+        <entry>124</entry>
+        <entry>145</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
