@@ -10,13 +10,12 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Web/WebAPISender.cs" timestamp="1513837463268" />
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/ServerBase.cs" timestamp="1513837480446" />
       <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/Program.cs" timestamp="1513761940992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/ServerConfiguration.cs" timestamp="1513864275127" />
     </filemarks>
     <jumps>
       <jump line="144" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -132,7 +131,7 @@
       <last-offset />
       <last-pattern>filepath</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
