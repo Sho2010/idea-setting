@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513835056286">
-        <mark key="'" line="51" column="8" />
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513836184442">
+        <mark key="'" line="52" column="8" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
-        <mark key="^" line="22" column="40" />
+        <mark key="^" line="23" column="40" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/Program.cs" timestamp="1513761940992">
