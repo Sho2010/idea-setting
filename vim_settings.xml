@@ -16,6 +16,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Utils/PerformanceLogger.cs" timestamp="1513929065600" />
+      <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/Connection.cs" timestamp="1513938886071" />
     </filemarks>
     <jumps>
       <jump line="144" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -126,7 +127,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0cmluZyAgQ29uZmlndXJhdGlvbkZpbGVQYXRoIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -163,10 +164,10 @@
         <entry>q!</entry>
         <entry>124</entry>
         <entry>145</entry>
-        <entry>q</entry>
         <entry>114</entry>
         <entry>66</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
