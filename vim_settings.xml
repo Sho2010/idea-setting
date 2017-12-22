@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513836184442">
-        <mark key="'" line="52" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513929501784">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="42" />
       </file>
       <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/Program.cs" timestamp="1513761940992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/ServerConfiguration.cs" timestamp="1513864275127" />
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Utils/PerformanceLogger.cs" timestamp="1513929065600" />
     </filemarks>
     <jumps>
       <jump line="144" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -41,7 +41,6 @@
       <jump line="68" column="16" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="73" column="16" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="122" column="35" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="69" column="16" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="35" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="38" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="43" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -52,29 +51,19 @@
       <jump line="106" column="48" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="79" column="73" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="26" column="21" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="20" column="4" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="21" column="21" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="22" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="24" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="31" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="34" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="37" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="42" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="51" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="58" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="65" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="63" column="69" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="66" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="62" column="12" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="7" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="18" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="23" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="30" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="33" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="36" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="64" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="57" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
-      <jump line="50" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="41" column="36" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="53" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="45" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -84,10 +73,21 @@
       <jump line="9" column="0" filename="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/Network.csproj" />
       <jump line="0" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="52" column="8" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="36" column="12" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="31" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="34" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="42" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="50" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="57" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="69" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>FilePath</text>
+        <text>hoge</text>
       </register>
       <register name="/" type="4">
         <text>filepath</text>
@@ -96,34 +96,34 @@
         <text>DefaultConfigurationFilePath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTmV0d29yazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg5Pjg6vjg4nmmYLjgavjgrPjg7Pjg5XjgqPjgrDjg5XjgqHjgqTjg6vjgpLjg5DjgqTjg4rjg6rjga7loLTmiYDjgavjgrPjg5Tjg7zjgZnjgovjgojjgYbjgavjgZfjgZ/jgYQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICIiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VhcmNoQ29uZmlndXJhdGlvbkRpcmVjdG9yeSgpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VhcmNoQ29uZmlndXJhdGlvbkRpcmVjdG9yeSgpOwoK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgc3RyaW5nIGhvZ2UoKQogICAgICAgIHsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsKCmNsYXNzIFByb2dyYW0KewogICAgc3RhdGljIHZvaWQgTWFpbihzdHJpbmdbXSBhcmdzKQogICAgewogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgU3RyaW5nCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dAogICAgICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0cmluZyAgQ29uZmlndXJhdGlvbkZpbGVQYXRoIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNpbmcgTmV0d29yazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIERpY3Rpb25hcnk8aW50LCBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9uPiBCYXR0bGVTZXJ2ZXJDb25maWd1cmF0aW9ucyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg5Pjg6vjg4nmmYLjgavjgrPjg7Pjg5XjgqPjgrDjg5XjgqHjgqTjg6vjgpLjg5DjgqTjg4rjg6rjga7loLTmiYDjgavjgrPjg5Tjg7zjgZnjgovjgojjgYbjgavjgZfjgZ/jgYQK</text>
       </register>
       <register name=":" type="4">
-        <text>66</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -160,9 +160,9 @@
         <entry>124</entry>
         <entry>145</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>114</entry>
         <entry>66</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
