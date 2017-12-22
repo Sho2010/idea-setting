@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513936973057">
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513941866750">
         <mark key="'" line="60" column="54" />
         <mark key="[" line="66" column="97" />
         <mark key="]" line="67" column="12" />
@@ -11,14 +11,18 @@
         <mark key="^" line="67" column="12" />
       </file>
       <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/ConnectionService.cs" timestamp="1513939793939" />
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/GameServer.cs" timestamp="1513942648527" />
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Services.cs" timestamp="1513942552092" />
       <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/Program.cs" timestamp="1513761940992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Utils/PerformanceLogger.cs" timestamp="1513929065600" />
-      <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/ProxyServer.cs" timestamp="1513939944836" />
+      <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/ProxyServer.cs" timestamp="1513941973491" />
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/ClientSessionService.cs" timestamp="1513942603685" />
       <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/Connection.cs" timestamp="1513939710688" />
+      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/ServerConfiguration.cs" timestamp="1513941792804" />
     </filemarks>
     <jumps>
       <jump line="144" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
