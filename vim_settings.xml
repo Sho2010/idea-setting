@@ -9,6 +9,11 @@
         <mark key="]" line="60" column="106" />
         <mark key="." line="59" column="54" />
       </file>
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" timestamp="1514189961755">
+        <mark key="[" line="29" column="40" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="29" column="41" />
+      </file>
       <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Common/ResourcePath.cs" timestamp="1514181745362" />
       <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Program.cs" timestamp="1514165925211" />
       <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer.sln" timestamp="1514185941010" />
@@ -29,16 +34,15 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="111" column="12" />
       </file>
-      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" timestamp="1514186688577">
-        <mark key="'" line="21" column="15" />
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" timestamp="1514189655067">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="72" column="22" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="70" column="22" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="132" column="16" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -129,7 +133,6 @@
       <jump line="14" column="54" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" />
       <jump line="12" column="21" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" />
       <jump line="23" column="40" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" />
-      <jump line="21" column="15" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" />
       <jump line="19" column="49" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" />
       <jump line="51" column="0" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" />
       <jump line="34" column="0" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" />
@@ -138,13 +141,15 @@
       <jump line="12" column="0" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" />
       <jump line="15" column="0" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" />
       <jump line="28" column="0" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" />
+      <jump line="21" column="32" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/AI/AiFileLoader.cs" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>dir</text>
       </register>
       <register name="0" type="4">
         <text>DirectoryInfo</text>
@@ -181,9 +186,9 @@
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>dir</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>dir</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -201,7 +206,6 @@
         <entry>EnvKey</entry>
         <entry>ConnectCallback</entry>
         <entry>IPEndPoint</entry>
-        <entry>dir</entry>
         <entry>FieldsDirectoryEnvKey</entry>
         <entry>ser</entry>
         <entry>SearchAIDirectory</entry>
@@ -209,6 +213,7 @@
         <entry>DirectoryPath</entry>
         <entry>DefaultDirectory</entry>
         <entry>new</entry>
+        <entry>dir</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -219,6 +224,7 @@
         <entry>220</entry>
         <entry>:w</entry>
         <entry>q</entry>
+        <entry>30</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
