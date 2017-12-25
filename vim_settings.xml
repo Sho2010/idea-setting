@@ -4,14 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" timestamp="1513941866750">
-        <mark key="'" line="60" column="54" />
-        <mark key="[" line="66" column="97" />
-        <mark key="]" line="67" column="12" />
-        <mark key="." line="67" column="12" />
-        <mark key="^" line="67" column="12" />
+        <mark key="[" line="24" column="97" />
+        <mark key="]" line="63" column="12" />
+        <mark key="." line="63" column="12" />
+        <mark key="^" line="63" column="12" />
       </file>
-      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/GameServer.cs" timestamp="1514170594029" />
-      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" timestamp="1514181969474" />
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Fields/FieldCharacterInfoLoader.cs" timestamp="1514182737234" />
       <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Common/ResourcePath.cs" timestamp="1514181745362" />
       <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Program.cs" timestamp="1514165925211" />
       <file name="$USER_HOME$/src/sergeant/servers/WarpServer/WarpServer/source/WarpServer.cs" timestamp="1514179684028" />
@@ -20,12 +18,7 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/sergeant/servers/WarpServer/WarpServer/source/Program.cs" timestamp="1514179694300">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="39" />
-        <mark key="^" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-      </file>
+      <file name="$USER_HOME$/src/sergeant/servers/WarpServer/WarpServer/source/Program.cs" timestamp="1514179694300" />
       <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/Connection.cs" timestamp="1514172495192">
         <mark key="'" line="125" column="31" />
         <mark key="[" line="98" column="0" />
