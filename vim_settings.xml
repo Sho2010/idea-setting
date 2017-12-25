@@ -10,19 +10,18 @@
         <mark key="." line="67" column="12" />
         <mark key="^" line="67" column="12" />
       </file>
-      <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/ConnectionService.cs" timestamp="1513939793939" />
-      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/GameServer.cs" timestamp="1513943923890" />
-      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Services.cs" timestamp="1513942552092" />
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/GameServer.cs" timestamp="1514166298398" />
       <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/Program.cs" timestamp="1513761940992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Utils/PerformanceLogger.cs" timestamp="1513929065600" />
-      <file name="$USER_HOME$/src/sergeant/servers/ProxyServer/ProxyServer/source/ProxyServer.cs" timestamp="1513941973491" />
-      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/ClientSessionService.cs" timestamp="1513942603685" />
-      <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/Connection.cs" timestamp="1513939710688" />
-      <file name="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/ServerConfiguration.cs" timestamp="1513941792804" />
+      <file name="$USER_HOME$/src/sergeant/servers/GameServer/GameServer/source/Program.cs" timestamp="1514165925211" />
+      <file name="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/Connection.cs" timestamp="1514167037819">
+        <mark key="'" line="98" column="15" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="111" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="144" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
@@ -94,6 +93,7 @@
       <jump line="43" column="0" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="24" column="29" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
       <jump line="60" column="54" filename="$USER_HOME$/src/sergeant/servers/ServerBase/source/Configuration/Configuration.cs" />
+      <jump line="98" column="15" filename="$USER_HOME$/src/sergeant/client/Assets/Standard Assets/Network/source/Tcp/Connection.cs" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -102,8 +102,8 @@
       <register name="/" type="4">
         <text>EnvKey</text>
       </register>
-      <register name="0" type="4">
-        <text>ConfigurationFilePath</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSVBBZGRyZXNzIGFkZHJlc3M7CiAgICAgICAgICAgIGJvb2wgaXNJcEFkZHJlc3MgPSBJUEFkZHJlc3MuVHJ5UGFyc2UoaXBhZGRyZXNzT3JIb3N0TmFtZSwgb3V0IGFkZHJlc3MpOwogICAgICAgICAgICBpZiAoaXNJcEFkZHJlc3MpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEJlZ2luQ29ubmVjdChhZGRyZXNzLCBwb3J0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIERucy5CZWdpbkdldEhvc3RFbnRyeShpcGFkZHJlc3NPckhvc3ROYW1lLCBuZXcgQXN5bmNDYWxsYmFjaygoYXIpID0+CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBJUEhvc3RFbnRyeSBlbnRyeSA9IERucy5FbmRHZXRIb3N0RW50cnkoYXIpOwogICAgICAgICAgICAgICAgICAgICAgICBCZWdpbkNvbm5lY3QoZW50cnkuQWRkcmVzc0xpc3QuRmlyc3RPckRlZmF1bHQoYWRkID0+IGFkZC5BZGRyZXNzRmFtaWx5ID09IEFkZHJlc3NGYW1pbHkuSW50ZXJOZXR3b3JrKSwgcG9ydCk7CiAgICAgICAgICAgICAgICAgICAgfSksIGlwYWRkcmVzc09ySG9zdE5hbWUpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
@@ -141,7 +141,7 @@
       <last-offset />
       <last-pattern>EnvKey</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
