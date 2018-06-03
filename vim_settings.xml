@@ -3,154 +3,344 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/escalus/src/escalus.erl" timestamp="1498738347882">
-        <mark key="'" line="94" column="20" />
+      <file name="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_payment_history.rb" timestamp="1467249677700">
+        <mark key="'" line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" timestamp="1498737785811">
-        <mark key="'" line="2" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/src/caravan-pc/ar-test/Dockerfile" timestamp="1503986132508">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/src/escalus/_build/default/rel/escalus/lib/escalus-3.0.1+build.811.refb4caa0e/src/escalus_users.erl" timestamp="1499090270125">
-        <mark key="'" line="118" column="7" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="118" column="4" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-rails-0.3.4/lib/pry-rails/commands/show_models.rb" timestamp="1487751917835">
+        <mark key="j" line="14" column="4" />
+        <mark key="m" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" timestamp="1498737791829">
-        <mark key="'" line="13" column="28" />
-        <mark key="[" line="32" column="53" />
-        <mark key="]" line="143" column="18" />
+      <file name="/Ruby Console" timestamp="1503984649327">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/amoc/src/amoc_user.erl" timestamp="1498737969806">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/garena_payment_event.rb" timestamp="1467253944601">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/amoc/hosts" timestamp="1498699815768">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
+      <file name="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" timestamp="1504145818232">
+        <mark key="'" line="43" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/monolith-xd1/README.md" timestamp="1468209316220">
+        <mark key="'" line="178" column="17" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/lib/analyzers/cnt_daily_purchase_amount/counter.rb" timestamp="1467286320703">
+        <mark key="'" line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/caravan-pc/app/models/user.rb" timestamp="1504145290941">
+        <mark key="'" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" timestamp="1467286512475">
+        <mark key="'" line="27" column="14" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/daily_purchase_amount.rb" timestamp="1467258225026">
+        <mark key="'" line="5" column="100" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" timestamp="1504146041198">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_authable.rb" timestamp="1504145651259">
+        <mark key="'" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/admin/ban.rb" timestamp="1467267385551">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="78" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" timestamp="1487751680249">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/chat_restriction.rb" timestamp="1467253535296">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="37" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history.rb" timestamp="1467250570328">
+        <mark key="'" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/db/bq/cnt/payment_history.sql.erb" timestamp="1467250414610">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="56" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/payment_history2.rb" timestamp="1467254106760">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="/a.regexp" timestamp="1467251590205">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" timestamp="1504145659358">
+        <mark key="'" line="31" column="8" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.3/lib/active_record/attribute_methods/dirty.rb" timestamp="1504145728514">
+        <mark key="'" line="316" column="36" />
+        <mark key="]" line="315" column="5" />
+        <mark key="^" line="315" column="5" />
+        <mark key="." line="315" column="5" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" timestamp="1504147300768">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/a.txt" timestamp="1467251592690">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history2.rb" timestamp="1467250698932">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/daily_charging_type_amount.rb" timestamp="1467257505417">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="11" column="10" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="13" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="15" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="19" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="21" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="25" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="28" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="31" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="34" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="37" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="40" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="45" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="48" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="50" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/amoc/hosts" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="12" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="15" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="25" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="27" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="30" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="34" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="32" column="10" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="145" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="144" column="6" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="143" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="108" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="116" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="142" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="118" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="120" column="6" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="121" column="0" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="52" column="6" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="67" column="4" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="13" column="28" filename="$USER_HOME$/src/amoc/scenarios/mongoose_simple_reconnect.erl" />
-      <jump line="2" column="13" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
-      <jump line="4" column="13" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/amoc/src/amoc_always_null_ssl_session_cache.erl" />
-      <jump line="30" column="12" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
-      <jump line="65" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
-      <jump line="54" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
-      <jump line="44" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
-      <jump line="20" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
-      <jump line="53" column="19" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/amoc/src/amoc_user.erl" />
-      <jump line="22" column="28" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="44" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="47" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="49" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="53" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="56" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="63" column="0" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="38" column="9" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="92" column="6" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="94" column="20" filename="$USER_HOME$/src/escalus/src/escalus.erl" />
-      <jump line="118" column="7" filename="$USER_HOME$/src/escalus/_build/default/rel/escalus/lib/escalus-3.0.1+build.811.refb4caa0e/src/escalus_users.erl" />
+      <jump line="52" column="2" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="84" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="22" column="1" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="430" column="31" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="7" column="37" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="19" column="4" filename="$USER_HOME$/src/lfs-backoffice/app/forms/character_bulk_inquiry_form.rb" />
+      <jump line="13" column="35" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/character_bulk_inquiry.rb" />
+      <jump line="206" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="36" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="37" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="38" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="39" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="217" column="16" filename="$USER_HOME$/src/lfs-backoffice/config/settings/ja.yml" />
+      <jump line="175" column="7" filename="$USER_HOME$/src/lfs-backoffice/config/settings/ja.yml" />
+      <jump line="174" column="7" filename="$USER_HOME$/src/lfs-backoffice/config/settings/ja.yml" />
+      <jump line="17" column="9" filename="$USER_HOME$/src/lfs-backoffice/config/settings/ja.yml" />
+      <jump line="196" column="14" filename="$USER_HOME$/src/lfs-backoffice/config/settings/ja.yml" />
+      <jump line="20" column="2" filename="$USER_HOME$/src/lfs-backoffice/app/models/mailmag/subscription.rb" />
+      <jump line="24" column="25" filename="$USER_HOME$/src/lfs-backoffice/app/admin/access_history.rb" />
+      <jump line="188" column="20" filename="$USER_HOME$/src/lfs-backoffice/config/settings/ja.yml" />
+      <jump line="205" column="8" filename="$USER_HOME$/src/lfs-backoffice/config/settings/ja.yml" />
+      <jump line="404" column="4" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="4" column="14" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/character_bulk_inquiry.rb" />
+      <jump line="10" column="48" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history.rb" />
+      <jump line="9" column="18" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/character_bulk_inquiry.rb" />
+      <jump line="0" column="15" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history.rb" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_payment_history.rb" />
+      <jump line="30" column="40" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_payment_history.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/lfs-backoffice/spec/features/admin/cnt_payment_history_spec.rb" />
+      <jump line="2" column="9" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="16" column="17" filename="$USER_HOME$/src/lfs-backoffice/db/bq/cnt/payment_history.sql.erb" />
+      <jump line="0" column="2" filename="$USER_HOME$/src/lfs-backoffice/db/bq/cnt/payment_history.sql.erb" />
+      <jump line="16" column="31" filename="$USER_HOME$/src/lfs-backoffice/db/bq/cnt/cnt_payment_history.sql.erb" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/forms/receipt_form.rb" />
+      <jump line="11" column="6" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history2.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history2.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/models/cnt/payment_history2.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/models/cnt/payment_history2.rb" />
+      <jump line="1" column="8" filename="$USER_HOME$/src/lfs-backoffice/app/models/cnt/daily_purchase_amount.rb" />
+      <jump line="5" column="100" filename="$USER_HOME$/src/lfs-backoffice/app/models/cnt/daily_purchase_amount.rb" />
+      <jump line="3" column="8" filename="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" />
+      <jump line="18" column="13" filename="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" />
+      <jump line="56" column="2" filename="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" />
+      <jump line="11" column="6" filename="$USER_HOME$/src/lfs-backoffice/lib/analyzers/cnt_daily_purchase_amount/counter.rb" />
+      <jump line="7" column="9" filename="$USER_HOME$/src/lfs-backoffice/lib/analyzers/cnt_daily_purchase_amount/counter.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/lfs-backoffice/spec/lib/analyzers/cnt_daily_purchase_amount/counter_spec.rb" />
+      <jump line="12" column="14" filename="$USER_HOME$/src/lfs-backoffice/lib/analyzers/cnt_daily_purchase_amount/counter.rb" />
+      <jump line="2" column="25" filename="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" />
+      <jump line="28" column="4" filename="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" />
+      <jump line="27" column="14" filename="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" />
+      <jump line="73" column="2" filename="$USER_HOME$/src/monolith-xd1/README.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/src/monolith-xd1/README.md" />
+      <jump line="61" column="2" filename="$USER_HOME$/src/monolith-xd1/README.md" />
+      <jump line="8" column="2" filename="$USER_HOME$/src/monolith-xd1/README.md" />
+      <jump line="178" column="17" filename="$USER_HOME$/src/monolith-xd1/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" />
+      <jump line="17" column="74" filename="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" />
+      <jump line="18" column="14" filename="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" />
+      <jump line="19" column="66" filename="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" />
+      <jump line="20" column="46" filename="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" />
+      <jump line="14" column="37" filename="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" />
+      <jump line="1" column="30" filename="$USER_HOME$/src/caravan-pc/app/models/user.rb" />
+      <jump line="11" column="49" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="35" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="25" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="16" column="30" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_authable.rb" />
+      <jump line="31" column="8" filename="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" />
+      <jump line="50" column="15" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.3/lib/active_record/attribute_methods/dirty.rb" />
+      <jump line="51" column="15" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.3/lib/active_record/attribute_methods/dirty.rb" />
+      <jump line="316" column="36" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.3/lib/active_record/attribute_methods/dirty.rb" />
+      <jump line="311" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.3/lib/active_record/attribute_methods/dirty.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" />
+      <jump line="18" column="11" filename="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="43" column="18" filename="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" />
+      <jump line="106" column="24" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="98" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="52" column="6" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="62" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="64" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="67" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="75" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="6" column="24" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="7" column="7" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
+      <jump line="5" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" />
+      <jump line="2" column="7" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>receive_forever</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">JSUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">LWJlaGF2aW91cihzc2xfc2Vzc2lvbl9jYWNoZV9hcGkpLgoK</text>
-      </register>
-      <register name=":" type="4">
-        <text>246</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgcHJpdmF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>create_users</text>
+        <text>auth</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">JCBteXNxbCBtb25vbGl0aC14ZDFfZGV2ZWxvcG1lbnQgLXUgcm9vdCA8ICN7ZHVtcCBmaWxlIHBhdGh9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNpZiAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSYmIHdnZXQgLU8gL3Vzci9sb2NhbC9iaW4vZ29zdSAiaHR0cHM6Ly9naXRodWIuY29tL3RpYW5vbi9nb3N1L3JlbGVhc2VzL2Rvd25sb2FkLyRHT1NVX1ZFUlNJT04vZ29zdS0kKGRwa2cgLS1wcmludC1hcmNoaXRlY3R1cmUpIiBcCgkmJiB3Z2V0IC1PIC91c3IvbG9jYWwvYmluL2dvc3UuYXNjICJodHRwczovL2dpdGh1Yi5jb20vdGlhbm9uL2dvc3UvcmVsZWFzZXMvZG93bmxvYWQvJEdPU1VfVkVSU0lPTi9nb3N1LSQoZHBrZyAtLXByaW50LWFyY2hpdGVjdHVyZSkuYXNjIiBcCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgcHJpdmF0ZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">XV1dCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>create_users</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>create_users</last-pattern>
+      <last-pattern>auth</last-pattern>
+      <last-replace>hoge</last-replace>
+      <last-substitute>Manage</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send_presence_available</entry>
-        <entry>hoge</entry>
-        <entry>receive_forever</entry>
-        <entry>cre</entry>
-        <entry>create_user</entry>
-        <entry>create</entry>
-        <entry>user</entry>
-        <entry>create_</entry>
-        <entry>create_users</entry>
+        <entry>menu</entry>
+        <entry>cnt_</entry>
+        <entry>cnt</entry>
+        <entry>cnt_verify_original_data</entry>
+        <entry>achieved_quests</entry>
+        <entry>logged_at_lt</entry>
+        <entry>csv</entry>
+        <entry>PaymentHistory</entry>
+        <entry encoding="base64">XDwsXD4=</entry>
+        <entry>SAFETY_PRECAUTION_LIMIT</entry>
+        <entry>DailyPurchaseAmount</entry>
+        <entry>currency</entry>
+        <entry>PaymentEvent</entry>
+        <entry>collect_amount_table</entry>
+        <entry>Manage</entry>
+        <entry>paymen</entry>
+        <entry>mysql</entry>
+        <entry>rail</entry>
+        <entry>indic</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
-        <entry>246</entry>
+        <entry>set list</entry>
+        <entry>w</entry>
+        <entry>%s/Manage/hoge/g</entry>
+        <entry>hoge</entry>
+        <entry>q</entry>
+        <entry>model</entry>
+        <entry>EModel</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed 2</text>
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
