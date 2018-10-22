@@ -6,12 +6,26 @@
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlKeyboard.cs" timestamp="1539933796345">
         <mark key="'" line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" timestamp="1540197979732">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="7" />
-        <mark key="n" line="9" column="8" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest2.cs" timestamp="1540202134746" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" timestamp="1540203277470">
+        <mark key="'" line="7" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" timestamp="1540202112132">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="35" />
+        <mark key="n" line="8" column="8" />
+        <mark key="." line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" timestamp="1540203101061">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Tests/NewTestScript.cs" timestamp="1540197893973">
         <mark key="[" line="25" column="18" />
@@ -19,8 +33,14 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlJoystick.cs" timestamp="1539933437649">
-        <mark key="'" line="44" column="0" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlJoystick.cs" timestamp="1540202755117">
+        <mark key="'" line="37" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" timestamp="1540203306639">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="215" column="1" />
+        <mark key="." line="215" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -38,53 +58,90 @@
       <jump line="22" column="10" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Tests/NewTestScript.cs" />
       <jump line="21" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59819BE1-42C3-4115-ADE6-88F6962021F1/28/8ee97129/Assert.cs" />
       <jump line="21" column="16" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Tests/NewTestScript.cs" />
+      <jump line="9" column="24" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" />
+      <jump line="17" column="4" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" />
+      <jump line="8" column="15" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" />
+      <jump line="17" column="13" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlJoystick.cs" />
+      <jump line="37" column="19" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlJoystick.cs" />
+      <jump line="55" column="31" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/3e/4f4f1fea/Input.cs" />
+      <jump line="14" column="12" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" />
+      <jump line="9" column="35" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" />
+      <jump line="7" column="20" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" />
+      <jump line="17" column="28" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="65" column="12" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="63" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="45" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="153" column="4" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>S</text>
+      </register>
+      <register name="/" type="4">
+        <text>6</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtUZXN0XQogICAgcHVibGljIHZvaWQgYWJjKCkKICAgIHsKICAgICAgICBBc3NlcnQuVGhhdCg1LCBJcy5FcXVhbFRvKDUpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBFZGl0TW9kZVRlc3QxU2ltcGxlUGFzc2VzKCkKICAgICAgICB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlIHRoZSBBc3NlcnQgY2xhc3MgdG8gdGVzdCBjb25kaXRpb25zLgogICAgICAgICAgICAvLyB5aWVsZCB0byBza2lwIGEgZnJhbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlIHRoZSBBc3NlcnQgY2xhc3MgdG8gdGVzdCBjb25kaXRpb25zLgogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBleHBlY3RlZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuVGhhdCg1LCA1KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuVGhhdCg1LCBJcy5FcXVhbFRvKDUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuVGhhdCh0cnVlLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGxheWVyQ29udHJvbGxlclRlc3QoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQoQXNzZXJ0KQo=</text>
+        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaG9nZSA9IG5ldyBJdGVtR2VuZXJhdG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBFcXVhbHMob2JqZWN0IG9iaikKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBiYXNlLkVxdWFscyhvYmopOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIG92ZXJyaWRlIGludCBHZXRIYXNoQ29kZSgpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gYmFzZS5HZXRIYXNoQ29kZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCByZXR1cm4gbnVsbCA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbTlVuaXQuRnJhbWV3b3JrLlRlc3RdCiAgICAgICAgcHVibGljIHZvaWQgUGxheWVyQ29udHJvbGxlclRlc3RTaW1wbGVQYXNzZXMoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>Is.EqualTo(5</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>6</last-search>
+      <last-offset />
+      <last-pattern>6</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>5</entry>
+        <entry>6</entry>
+      </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q!</entry>
+        <entry>q</entry>
+        <entry>d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
