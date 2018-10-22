@@ -7,10 +7,6 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="OverrideMethods" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="shift equals" />
-  </action>
   <action id="RiderOpenSolution" />
   <action id="RiderUnitTestRunContextAction">
     <keyboard-shortcut first-keystroke="meta t" />

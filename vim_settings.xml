@@ -3,16 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlKeyboard.cs" timestamp="1539933796345">
-        <mark key="'" line="45" column="12" />
-      </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest2.cs" timestamp="1540202134746" />
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" timestamp="1540203277470">
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" timestamp="1540204465454">
         <mark key="'" line="7" column="20" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest1.cs" timestamp="1540202112132">
         <mark key="'" line="8" column="15" />
@@ -21,25 +17,50 @@
         <mark key="n" line="8" column="8" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" timestamp="1540203101061">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Tests/NewTestScript.cs" timestamp="1540197893973">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="19" />
         <mark key="^" line="23" column="3" />
         <mark key="." line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/UI_Arrow_IsDraw.cs" timestamp="1540204597407">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Score/ScorePoint.cs" timestamp="1540205624255" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/ResultScene/MeatExpression.cs" timestamp="1540205037306" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" timestamp="1540204922174" />
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlJoystick.cs" timestamp="1540202755117">
         <mark key="'" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" timestamp="1540203306639">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="215" column="1" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Item/ItemTrigger.cs" timestamp="1540204519600" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayMode/PlayModeTest1.cs" timestamp="1540205971196">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="43" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlKeyboard.cs" timestamp="1539933796345">
+        <mark key="'" line="45" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" timestamp="1540205270918">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/PlayMode/PlayModeTest1.cs" timestamp="1540205244424">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" timestamp="1540203982225">
+        <mark key="'" line="109" column="16" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="28" />
         <mark key="." line="215" column="1" />
       </file>
     </filemarks>
@@ -83,43 +104,47 @@
       <jump line="45" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
       <jump line="153" column="4" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="109" column="16" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/PlayMode/PlayModeTest1.cs" />
+      <jump line="11" column="31" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayMode/PlayModeTest1.cs" />
+      <jump line="43" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/a8/29490c8e/GameObject.cs" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>S</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>6</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBFZGl0TW9kZVRlc3QxU2ltcGxlUGFzc2VzKCkKICAgICAgICB7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>sp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKHNwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBleHBlY3RlZDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGxheWVyQ29udHJvbGxlclRlc3QoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAogICAgaW0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGpramsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCiAgICAgICAgLy8geWllbGQgdG8gc2tpcCBhIGZyYW1lCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbVGVzdF0KICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIEEgVW5pdHlUZXN0IGJlaGF2ZXMgbGlrZSBhIGNvcm91dGluZSBpbiBQbGF5TW9kZQogICAgLy8gYW5kIGFsbG93cyB5b3UgdG8geWllbGQgbnVsbCB0byBza2lwIGEgZnJhbWUgaW4gRWRpdE1vZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBFcXVhbHMob2JqZWN0IG9iaikKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBiYXNlLkVxdWFscyhvYmopOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIG92ZXJyaWRlIGludCBHZXRIYXNoQ29kZSgpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gYmFzZS5HZXRIYXNoQ29kZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbTlVuaXQuRnJhbWV3b3JrLlRlc3RdCiAgICAgICAgcHVibGljIHZvaWQgUGxheWVyQ29udHJvbGxlclRlc3RTaW1wbGVQYXNzZXMoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwp1c2luZyBOVW5pdC5GcmFtZXdvcms7CnVzaW5nIFVuaXR5RW5naW5lLlRlc3RUb29sczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -142,6 +167,7 @@
         <entry>q!</entry>
         <entry>q</entry>
         <entry>d</entry>
+        <entry>fa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
