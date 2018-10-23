@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Editor/Tests/EditModeTest2.cs" timestamp="1540202134746" />
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayerControllerTest.cs" timestamp="1540204465454">
         <mark key="'" line="7" column="20" />
         <mark key="[" line="12" column="0" />
@@ -34,8 +33,7 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/ResultScene/MeatExpression.cs" timestamp="1540205037306" />
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" timestamp="1540206718123">
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" timestamp="1540260413010">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -44,7 +42,6 @@
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlJoystick.cs" timestamp="1540202755117">
         <mark key="'" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Item/ItemTrigger.cs" timestamp="1540204519600" />
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/PlayMode/PlayModeTest1.cs" timestamp="1540205971196">
         <mark key="'" line="13" column="31" />
         <mark key="[" line="20" column="0" />
@@ -70,7 +67,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/IsInScreen.cs" timestamp="1540206454813" />
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" timestamp="1540203982225">
         <mark key="'" line="109" column="16" />
         <mark key="[" line="13" column="13" />
@@ -177,7 +173,7 @@
       <last-offset />
       <last-pattern>tell</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
