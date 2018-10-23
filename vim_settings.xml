@@ -33,7 +33,7 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" timestamp="1540261462892">
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" timestamp="1540262570396">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="30" />
@@ -52,6 +52,7 @@
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlKeyboard.cs" timestamp="1539933796345">
         <mark key="'" line="45" column="12" />
       </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerAttackTrigger.cs" timestamp="1540263210653" />
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditModeTest1.cs" timestamp="1540205270918">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="0" />
@@ -61,10 +62,11 @@
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Item/ItemGenerator.cs" timestamp="1540206375996">
         <mark key="'" line="48" column="8" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditMode/RightAndLeftFinderTest.cs" timestamp="1540261616833">
-        <mark key="[" line="9" column="5" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditMode/RightAndLeftFinderTest.cs" timestamp="1540261897858">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="9" column="3" />
         <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+        <mark key="." line="8" column="16" />
         <mark key="^" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/PlayMode/PlayModeTest1.cs" timestamp="1540205244424">
@@ -73,11 +75,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" timestamp="1540203982225">
-        <mark key="'" line="109" column="16" />
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" timestamp="1540262879986">
+        <mark key="'" line="113" column="33" />
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="28" />
-        <mark key="." line="215" column="1" />
+        <mark key="." line="216" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -115,8 +117,6 @@
       <jump line="17" column="28" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
       <jump line="65" column="12" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
       <jump line="63" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
-      <jump line="59" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
-      <jump line="53" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
       <jump line="45" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
       <jump line="153" column="4" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
@@ -132,54 +132,63 @@
       <jump line="48" column="8" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Item/ItemGenerator.cs" />
       <jump line="4" column="17" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" />
       <jump line="14" column="13" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" />
+      <jump line="8" column="17" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditMode/RightAndLeftFinderTest.cs" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditMode/RightAndLeftFinderTest.cs" />
+      <jump line="128" column="8" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="31" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="44" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="216" column="0" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
+      <jump line="113" column="33" filename="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Player/PlayerController.cs" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>tell</text>
+        <text>score</text>
       </register>
       <register name="0" type="4">
         <text>RightAndLeftFinder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGRhZmRrbGFsIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzLkVkaXRNb2RlCnsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzLkVkaXRNb2RlCnsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gQSBVbml0eVRlc3QgYmVoYXZlcyBsaWtlIGEgY29yb3V0aW5lIGluIFBsYXlNb2RlCiAgICAgICAgLy8gYW5kIGFsbG93cyB5b3UgdG8geWllbGQgbnVsbCB0byBza2lwIGEgZnJhbWUgaW4gRWRpdE1vZGUKICAgICAgICBbVW5pdHlUZXN0XQogICAgICAgIHB1YmxpYyBJRW51bWVyYXRvciBSaWdodEFuZExlZnRGaW5kZXJUZXN0V2l0aEVudWVyYXRvclBhc3NlcygpCiAgICAgICAgewogICAgICAgICAgICAvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCiAgICAgICAgICAgIC8vIHlpZWxkIHRvIHNraXAgYSBmcmFtZQogICAgICAgICAgICB5aWVsZCByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlIHRoZSBBc3NlcnQgY2xhc3MgdG8gdGVzdCBjb25kaXRpb25zLgogICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgLy8gQSBVbml0eVRlc3QgYmVoYXZlcyBsaWtlIGEgY29yb3V0aW5lIGluIFBsYXlNb2RlCiAgICAgICAgLy8gYW5kIGFsbG93cyB5b3UgdG8geWllbGQgbnVsbCB0byBza2lwIGEgZnJhbWUgaW4gRWRpdE1vZGUKICAgICAgICBbVW5pdHlUZXN0XQogICAgICAgIHB1YmxpYyBJRW51bWVyYXRvciBSaWdodEFuZExlZnRGaW5kZXJUZXN0V2l0aEVudWVyYXRvclBhc3NlcygpCiAgICAgICAgewogICAgICAgICAgICAvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCiAgICAgICAgICAgIC8vIHlpZWxkIHRvIHNraXAgYSBmcmFtZQogICAgICAgICAgICB5aWVsZCByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlIHRoZSBBc3NlcnQgY2xhc3MgdG8gdGVzdCBjb25kaXRpb25zLgogICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGlyZWN0aW9uIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKHNwKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGlyZWN0aW9uIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKHNwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tell</last-search>
+      <last-search>score</last-search>
       <last-offset />
-      <last-pattern>tell</last-pattern>
+      <last-pattern>score</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -188,13 +197,17 @@
         <entry>find</entry>
         <entry>random</entry>
         <entry>tell</entry>
+        <entry>item</entry>
+        <entry>score</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q!</entry>
-        <entry>q</entry>
         <entry>d</entry>
         <entry>fa</entry>
+        <entry>action</entry>
+        <entry>q</entry>
+        <entry>action ReformatCode</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
