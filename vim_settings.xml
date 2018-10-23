@@ -62,12 +62,12 @@
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Item/ItemGenerator.cs" timestamp="1540206375996">
         <mark key="'" line="48" column="8" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditMode/RightAndLeftFinderTest.cs" timestamp="1540274866761">
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditMode/RightAndLeftFinderTest.cs" timestamp="1540283892448">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/PlayMode/PlayModeTest1.cs" timestamp="1540205244424">
         <mark key="'" line="4" column="0" />
@@ -149,43 +149,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>for</text>
+        <text encoding="base64">IC8vIEE9MA==</text>
       </register>
       <register name="/" type="4">
         <text>score</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICh2YXIgdmFsdWUgaW4gYXJyYXkpCg==</text>
+      <register name="0" type="4">
+        <text>RespawnPoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFRvcFNjb3JlKEFycmF5PFBsYXllcj4gcGxheWVycykKICAgICAgICB7CiAgICAgICAgICAgIGludCB0b3BTY29yZTsKICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBsYXllciBpbiBwbGF5ZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAodG9wU2NvcmUgPCBwbGF5ZXIuU2NvcmUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdG9wU2NvcmUgPSBwbGF5ZXIuU2NvcmU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHRvcFNjb3JlOwogICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBSZXNwYXduUG9pbnQubGVuCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IFVQUEVSOyBpKyspCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFRvcFNjb3JlKEFycmF5PFBsYXllcj4gcGxheWVycykKICAgICAgICB7CiAgICAgICAgICAgIGludCB0b3BTY29yZTsKICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBsYXllciBpbiBwbGF5ZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAodG9wU2NvcmUgPCBwbGF5ZXIuU2NvcmUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdG9wU2NvcmUgPSBwbGF5ZXIuU2NvcmU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHRvcFNjb3JlOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IFVQUEVSOyBpKyspCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYXJyYXkgPSB7ImEiICwgImIiLCBjICxkIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdHkubG9nZWxlbWVudAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgYXJyYXkgPSB7ImEiICwgImIiLCBjICxkIH0K</text>
+      </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -212,8 +212,8 @@
         <entry>fa</entry>
         <entry>action</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
