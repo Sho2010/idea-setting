@@ -33,10 +33,10 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" timestamp="1540260413010">
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/OthersPosition/RightAndLeftFinder.cs" timestamp="1540261462892">
         <mark key="'" line="14" column="13" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="30" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Controller/ControlJoystick.cs" timestamp="1540202755117">
@@ -60,6 +60,12 @@
       </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Scripts/Item/ItemGenerator.cs" timestamp="1540206375996">
         <mark key="'" line="48" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/Editor/EditMode/RightAndLeftFinderTest.cs" timestamp="1540261616833">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/src/hal-intern-2018/Assets/Tests/PlayMode/PlayModeTest1.cs" timestamp="1540205244424">
         <mark key="'" line="4" column="0" />
@@ -138,31 +144,31 @@
         <text>RightAndLeftFinder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGlyZWN0aW9uIAo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRlc3RzLkVkaXRNb2RlCnsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKHNwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgLy8gQSBVbml0eVRlc3QgYmVoYXZlcyBsaWtlIGEgY29yb3V0aW5lIGluIFBsYXlNb2RlCiAgICAgICAgLy8gYW5kIGFsbG93cyB5b3UgdG8geWllbGQgbnVsbCB0byBza2lwIGEgZnJhbWUgaW4gRWRpdE1vZGUKICAgICAgICBbVW5pdHlUZXN0XQogICAgICAgIHB1YmxpYyBJRW51bWVyYXRvciBSaWdodEFuZExlZnRGaW5kZXJUZXN0V2l0aEVudWVyYXRvclBhc3NlcygpCiAgICAgICAgewogICAgICAgICAgICAvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCiAgICAgICAgICAgIC8vIHlpZWxkIHRvIHNraXAgYSBmcmFtZQogICAgICAgICAgICB5aWVsZCByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgaW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXNlIHRoZSBBc3NlcnQgY2xhc3MgdG8gdGVzdCBjb25kaXRpb25zLgogICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGpramsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGlyZWN0aW9uIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2UgdGhlIEFzc2VydCBjbGFzcyB0byB0ZXN0IGNvbmRpdGlvbnMuCiAgICAgICAgLy8geWllbGQgdG8gc2tpcCBhIGZyYW1lCg==</text>
+        <text encoding="base64">ICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKHNwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEEgVW5pdHlUZXN0IGJlaGF2ZXMgbGlrZSBhIGNvcm91dGluZSBpbiBQbGF5TW9kZQogICAgLy8gYW5kIGFsbG93cyB5b3UgdG8geWllbGQgbnVsbCB0byBza2lwIGEgZnJhbWUgaW4gRWRpdE1vZGUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
