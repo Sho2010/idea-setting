@@ -3,69 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history2.rb" timestamp="1467250698932">
-        <mark key="'" line="11" column="6" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="23" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/garena_payment_event.rb" timestamp="1467253944601">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/gke.tf" timestamp="1528056087830">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="40" column="44" />
-      </file>
-      <file name="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/output.tf" timestamp="1528056228363">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Ruby Console" timestamp="1503984649327">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/caravan-pc/app/models/user.rb" timestamp="1504145290941">
-        <mark key="'" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/lib/analyzers/cnt_daily_purchase_amount/counter.rb" timestamp="1467286320703">
-        <mark key="'" line="12" column="14" />
-      </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/daily_charging_type_amount.rb" timestamp="1467257505417">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="2" />
-      </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-rails-0.3.4/lib/pry-rails/commands/show_models.rb" timestamp="1487751917835">
-        <mark key="j" line="14" column="4" />
-        <mark key="m" line="14" column="4" />
-      </file>
-      <file name="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_authable.rb" timestamp="1504145651259">
-        <mark key="'" line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" timestamp="1504147300768">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" timestamp="1504145818232">
-        <mark key="'" line="43" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" timestamp="1487751680249">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="22" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/sergeant/deployment/terraform/gke.tf" timestamp="1528057169685">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_payment_history.rb" timestamp="1467249677700">
+        <mark key="'" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/src/caravan-pc/ar-test/Dockerfile" timestamp="1503986132508">
         <mark key="[" line="9" column="0" />
@@ -73,18 +12,32 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" timestamp="1504145659358">
-        <mark key="'" line="31" column="8" />
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/pry-rails-0.3.4/lib/pry-rails/commands/show_models.rb" timestamp="1487751917835">
+        <mark key="j" line="14" column="4" />
+        <mark key="m" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/admin/ban.rb" timestamp="1467267385551">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="21" />
+      <file name="/Ruby Console" timestamp="1503984649327">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/payment_history2.rb" timestamp="1467254106760">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="12" />
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/garena_payment_event.rb" timestamp="1467253944601">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/caravan-pc/reception/app/controllers/reception/sessions_controller.rb" timestamp="1504145818232">
+        <mark key="'" line="43" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/monolith-xd1/README.md" timestamp="1468209316220">
+        <mark key="'" line="178" column="17" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/lib/analyzers/cnt_daily_purchase_amount/counter.rb" timestamp="1467286320703">
+        <mark key="'" line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/caravan-pc/app/models/user.rb" timestamp="1504145290941">
+        <mark key="'" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/payment_event.rb" timestamp="1467286512475">
         <mark key="'" line="27" column="14" />
@@ -93,49 +46,8 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history.rb" timestamp="1467250570328">
-        <mark key="'" line="0" column="15" />
-      </file>
-      <file name="/a.regexp" timestamp="1467251590205">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.3/lib/active_record/attribute_methods/dirty.rb" timestamp="1504145728514">
-        <mark key="'" line="316" column="36" />
-        <mark key="]" line="315" column="5" />
-        <mark key="^" line="315" column="5" />
-        <mark key="." line="315" column="5" />
-      </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_payment_history.rb" timestamp="1467249677700">
-        <mark key="'" line="30" column="40" />
-      </file>
       <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/daily_purchase_amount.rb" timestamp="1467258225026">
         <mark key="'" line="5" column="100" />
-      </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/chat_restriction.rb" timestamp="1467253535296">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/monolith-xd1/README.md" timestamp="1468209316220">
-        <mark key="'" line="178" column="17" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="59" />
-      </file>
-      <file name="$USER_HOME$/src/lfs-backoffice/db/bq/cnt/payment_history.sql.erb" timestamp="1467250414610">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="37" column="56" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="2" />
-      </file>
-      <file name="/a.txt" timestamp="1467251592690">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/sergeant/deployment/terraform/cloud-sql.tf" timestamp="1528046747821">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" timestamp="1504146041198">
         <mark key="'" line="7" column="7" />
@@ -144,8 +56,79 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_authable.rb" timestamp="1504145651259">
+        <mark key="'" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/admin/ban.rb" timestamp="1467267385551">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="78" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/monolith-xd1/app/views/application/_sidebar.html.haml" timestamp="1487751680249">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/manage/chat_restriction.rb" timestamp="1467253535296">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="37" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history.rb" timestamp="1467250570328">
+        <mark key="'" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/db/bq/cnt/payment_history.sql.erb" timestamp="1467250414610">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="56" />
+        <mark key="." line="1" column="3" />
+        <mark key="^" line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/payment_history2.rb" timestamp="1467254106760">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="/a.regexp" timestamp="1467251590205">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/caravan-pc/reception/app/models/concerns/reception/user_activation.rb" timestamp="1504145659358">
+        <mark key="'" line="31" column="8" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.3/lib/active_record/attribute_methods/dirty.rb" timestamp="1504145728514">
+        <mark key="'" line="316" column="36" />
+        <mark key="]" line="315" column="5" />
+        <mark key="^" line="315" column="5" />
+        <mark key="." line="315" column="5" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" timestamp="1504147300768">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/a.txt" timestamp="1467251592690">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/bq/cnt/payment_history2.rb" timestamp="1467250698932">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/lfs-backoffice/app/models/cnt/daily_charging_type_amount.rb" timestamp="1467257505417">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="2" />
+      </file>
     </filemarks>
     <jumps>
+      <jump line="52" column="2" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="84" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="22" column="1" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="430" column="31" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
+      <jump line="7" column="37" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="19" column="4" filename="$USER_HOME$/src/lfs-backoffice/app/forms/character_bulk_inquiry_form.rb" />
+      <jump line="13" column="35" filename="$USER_HOME$/src/lfs-backoffice/app/admin/cnt_verify_original_data.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/lfs-backoffice/app/models/bq/character_bulk_inquiry.rb" />
       <jump line="206" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
       <jump line="36" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
       <jump line="37" column="6" filename="$USER_HOME$/src/lfs-backoffice/config/locales/active_admin.ja.yml" />
@@ -238,70 +221,67 @@
       <jump line="13" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/secure_password.rb" />
       <jump line="5" column="8" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" />
       <jump line="2" column="7" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activemodel-5.1.3/lib/active_model/validations/clusivity.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/sergeant/deployment/terraform/cloud-sql.tf" />
-      <jump line="0" column="1" filename="$USER_HOME$/src/sergeant/deployment/terraform/cloud-sql.tf" />
-      <jump line="5" column="21" filename="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/gke.tf" />
-      <jump line="59" column="46" filename="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/gke.tf" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/gke.tf" />
-      <jump line="4" column="23" filename="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/gke.tf" />
-      <jump line="51" column="2" filename="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/gke.tf" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/sergeant/deployment/terraform/module/gke/output.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgcHJpdmF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>master_auth.0.cluster_ca_certificate</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>google_container_cluseter</text>
+        <text>auth</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiM=</text>
+      <register name="0" type="2">
+        <text encoding="base64">JCBteXNxbCBtb25vbGl0aC14ZDFfZGV2ZWxvcG1lbnQgLXUgcm9vdCA8ICN7ZHVtcCBmaWxlIHBhdGh9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUaGUgZm9sbG93aW5nIG91dHB1dHMgYWxsb3cgYXV0aGVudGljYXRpb24gYW5kIGNvbm5lY3Rpdml0eSB0byB0aGUgR0tFIENsdXN0ZXIuCm91dHB1dCAiY2xpZW50X2NlcnRpZmljYXRlIiB7CiAgdmFsdWUgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIuZ2tlLm1hc3Rlcl9hdXRoLjAuY2xpZW50X2NlcnRpZmljYXRlfSIKfQoKb3V0cHV0ICJjbGllbnRfa2V5IiB7CiAgdmFsdWUgPSAiJHtnb29nbGVfY29udGFpbmVyX2NsdXN0ZXIuZ2tlLm1hc3Rlcl9hdXRoLjAuY2xpZW50X2tleX0iCn0KCm91dHB1dCAiY2x1c3Rlcl9jYV9jZXJ0aWZpY2F0ZSIgewogIHZhbHVlID0gIiR7Z29vZ2xlX2NvbnRhaW5lcl9jbHVzdGVyLmdrZS5tYXN0ZXJfYXV0aC4wLmNsdXN0ZXJfY2FfY2VydGlmaWNhdGV9Igp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2F1dGgvYmlncXVlcnkiLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNpZiAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSYmIHdnZXQgLU8gL3Vzci9sb2NhbC9iaW4vZ29zdSAiaHR0cHM6Ly9naXRodWIuY29tL3RpYW5vbi9nb3N1L3JlbGVhc2VzL2Rvd25sb2FkLyRHT1NVX1ZFUlNJT04vZ29zdS0kKGRwa2cgLS1wcmludC1hcmNoaXRlY3R1cmUpIiBcCgkmJiB3Z2V0IC1PIC91c3IvbG9jYWwvYmluL2dvc3UuYXNjICJodHRwczovL2dpdGh1Yi5jb20vdGlhbm9uL2dvc3UvcmVsZWFzZXMvZG93bmxvYWQvJEdPU1VfVkVSU0lPTi9nb3N1LSQoZHBrZyAtLXByaW50LWFyY2hpdGVjdHVyZSkuYXNjIiBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyaWFibGUgInBhc3N3b3JkIiB7fQo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XV1dCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>google_container_cluseter</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>google_container_cluseter</last-pattern>
-      <last-replace>module</last-replace>
-      <last-substitute>google_container_cluseter</last-substitute>
+      <last-pattern>auth</last-pattern>
+      <last-replace>hoge</last-replace>
+      <last-substitute>Manage</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>menu</entry>
+        <entry>cnt_</entry>
+        <entry>cnt</entry>
+        <entry>cnt_verify_original_data</entry>
+        <entry>achieved_quests</entry>
         <entry>logged_at_lt</entry>
         <entry>csv</entry>
         <entry>PaymentHistory</entry>
@@ -317,22 +297,15 @@
         <entry>rail</entry>
         <entry>indic</entry>
         <entry>auth</entry>
-        <entry>pass</entry>
-        <entry>primary</entry>
-        <entry>zone</entry>
-        <entry>pub</entry>
-        <entry>google_container_cluseter</entry>
       </history-search>
       <history-cmd>
         <entry>set list</entry>
+        <entry>w</entry>
         <entry>%s/Manage/hoge/g</entry>
         <entry>hoge</entry>
         <entry>q</entry>
         <entry>model</entry>
         <entry>EModel</entry>
-        <entry encoding="base64">JzwsJz5zL3ByaW1hcnkvZ2tlL2dj</entry>
-        <entry>%s/google_container_cluseter/module/g</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -364,9 +337,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
